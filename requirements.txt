@@ -32,6 +32,6 @@ sseclient==0.0.26
 temporal-cache==0.1.1
 traitlets==4.3.3
 tzlocal==2.0.0
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 websocket-client==0.57.0
